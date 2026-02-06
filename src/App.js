@@ -1,9 +1,9 @@
 import './App.css';
-import Main from './components/Main/Main'
+import Main from './page/Main/Main'
 
 function App() {
     return (
-        <Main />
+      <Main />
     )
 }
 
